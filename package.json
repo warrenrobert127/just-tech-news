@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mysql-upgrade": "^0.1.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.3"
+  },
+  "name": "just-tech-news",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrenrobert127/just-tech-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warrenrobert127/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/warrenrobert127/just-tech-news#readme"
+}
