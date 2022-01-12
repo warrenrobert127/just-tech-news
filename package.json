@@ -7,7 +7,6 @@
     "express-handlebars": "^6.0.2",
     "express-session": "^1.17.2",
     "jaws-framework": "^1.3.3",
-    "jest": "^27.4.7",
     "mysql-db-seed": "^0.0.4",
     "mysql-upgrade": "^0.1.2",
     "mysql2": "^2.3.3",
@@ -34,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/warrenrobert127/just-tech-news/issues"
   },
-  "homepage": "https://github.com/warrenrobert127/just-tech-news#readme"
+  "homepage": "https://github.com/warrenrobert127/just-tech-news#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
